@@ -1,7 +1,7 @@
 # 🎙️ Smart Voice Assistant
 
 <p align="center">
-  <img src="https://your-image-url-here" alt="Smart Voice Assistant" width="600">
+  <img src=""C:\Users\Kousi\Pictures\Screenshots\Screenshot 2025-02-21 035350.png"" alt="Smart Voice Assistant" width="600">
 </p>
 
 ## 🌟 Overview
@@ -100,6 +100,10 @@ npm start
 > **Optimized for:** 🖥️ **Desktop** | 📱 **Mobile** | 📟 **Tablets**
 
 ---
+
+## Screenshots
+![Screenshot 2025-02-21 035350](https://github.com/user-attachments/assets/387c9858-8ffd-4c32-8854-9340476a9622)
+![Screenshot 2025-02-21 035403](https://github.com/user-attachments/assets/2d6a1090-bb6d-492d-97c8-0effc93a6217)
 
 ## 🤝 Contributing
 
