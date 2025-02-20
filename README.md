@@ -1,9 +1,5 @@
 # 🎙️ Smart Voice Assistant
 
-<p align="center">
-  <img src=""C:\Users\Kousi\Pictures\Screenshots\Screenshot 2025-02-21 035350.png"" alt="Smart Voice Assistant" width="600">
-</p>
-
 ## 🌟 Overview
 
 Smart Voice Assistant is a modern web application that transforms your speech into organized, actionable insights. With a sleek UI and powerful features, it enables effortless voice-to-text conversion, smart categorization, and content summarization.
