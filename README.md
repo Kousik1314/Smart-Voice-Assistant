@@ -1,6 +1,8 @@
 # 🎙️ Smart Voice Assistant
 
-Live Link - https://smartassistantbykousik.netlify.app/
+Video Link - https://drive.google.com/file/d/1Wy7iYXEEr2Iybxa2hpUm3gx7wLu7btLl/view
+Live Link -  https://smartassistantbykousik.netlify.app/
+
 
 ## 🌟 Overview
 
