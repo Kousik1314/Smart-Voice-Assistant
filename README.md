@@ -1,6 +1,6 @@
 # 🎙️ Smart Voice Assistant
 
-Video Link - https://drive.google.com/file/d/1Wy7iYXEEr2Iybxa2hpUm3gx7wLu7btLl/view
+Video Link - https://drive.google.com/file/d/1HNSrzplOot_J8N0zM5gjTbO16WbxGvR0/view?usp=sharing
 
 Live Link -  https://smartassistantbykousik.netlify.app/
 
